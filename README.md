@@ -5,7 +5,7 @@ text widgets.
 
 ![Screenshot hello_word](images/01.jpg)
 
-### Praktikum 1
+### Praktikum 2
 
 image widgets
 
