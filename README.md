@@ -10,3 +10,5 @@ text widgets.
 image widgets
 
 ![Screenshot hello_word](images/02.jpg)
+
+### Praktikum 3
